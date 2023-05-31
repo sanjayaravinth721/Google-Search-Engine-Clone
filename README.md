@@ -23,11 +23,10 @@ This project aims to replicate the core functionalities of the popular Google se
 # Getting Started
 Follow these steps to set up and run the Google search engine clone locally:
 
-- Clone the repository: git clone https://github.com/your-username/your-repo.git
 - Configure the database: Create a database using your preferred database management system and import the provided schema file.
 - Configure the database connection: Update the database connection settings in the configuration file.
 - Build and run the project: Use your preferred Java development environment to build and run the project. Ensure all dependencies are resolved.
-- Access the application: Open a web browser and navigate to http://localhost:port to access the search engine clone.
+- Access the application: Open a web browser and navigate to http://localhost:8080 to access the search engine clone.
 
 # Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
